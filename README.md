@@ -13,9 +13,7 @@ Here is a high-level view of the project architecture:
 3. **Query Engine**: Athena for running SQL queries on the datasets.  
 4. **Visualization**: QuickSight to display music insights in dashboards.
 
-![Architecture Diagram](architecture/architecture.png) _(Optional)_
-
----
+![Architecture Diagram](ARCHITECTURE.png)_
 
 ## 🛠️ Technologies and Services Used
 - **AWS S3** – Cloud storage for datasets
